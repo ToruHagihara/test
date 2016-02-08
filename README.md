@@ -1,2 +1,6 @@
-# test
-md file
+---
+title: This is my title
+layout: post
+---
+
+Here is my page.
